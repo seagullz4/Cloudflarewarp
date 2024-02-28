@@ -1,4 +1,3 @@
 httpx
-os
 time
 requests
