@@ -4,3 +4,10 @@
 
 ## 环境
 要求安装Python3以及pip3
+
+## 配置安装（ubuntu/debian）
+
+```
+apt install python3
+
+apt install python3-pip
