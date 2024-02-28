@@ -14,3 +14,8 @@ apt install python3-pip
 
 pip3 install -r requirements.txt
 ```
+
+## 一键开刷warp流量
+```
+curl -sSL https://github.com/seagullz4/Cloudflarewarp/raw/main/warp.py -o warp.py && chmod +x warp.py && python3 warp.py
+```
