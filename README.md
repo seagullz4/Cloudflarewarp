@@ -12,6 +12,8 @@ apt install python3
 
 apt install python3-pip
 
+git clone https://github.com/seagullz4/Cloudflarewarp
+
 pip3 install -r requirements.txt
 ```
 
