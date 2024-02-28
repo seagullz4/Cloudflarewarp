@@ -23,3 +23,6 @@ pip3 install -r requirements.txt
 ```
 curl -sSL https://github.com/seagullz4/Cloudflarewarp/raw/main/warp.py -o warp.py && chmod +x warp.py && python3 warp.py
 ```
+
+## 反馈
+该脚本来源网络,我进行二次修改,但是我找不到作者源,如果您看到请尽快联系,谢谢
