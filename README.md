@@ -1,4 +1,4 @@
-# Cloudflarewarp
+# Cloudflarewarp（好像和谐了）
 
 warp+刷流量自动脚本,
 为cloudflare的warp密钥刷无限流量,约有1.9EB流量,大约有1,900,000,000,000 GB的流量,只要有台vps或者甚至在安卓/苹果手机上也可以在线使用.
